@@ -1,0 +1,39 @@
+/** @format */
+
+.menubar-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	height: 15%;
+	/* border: 1px solid red; */
+	box-sizing: border-box;
+	padding: 1rem 1.5rem;
+	background-color: #0072aa;
+	color: antiquewhite;
+}
+
+.logo-container {
+	font-weight: 600;
+	font-size: 1.5rem;
+	flex: 0.3;
+}
+
+.menu_items_container {
+	/* border: 2px solid black; */
+	flex: 0.3;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	box-sizing: border-box;
+}
+
+.menu_items_container > span {
+	font-weight: 700;
+	font-size: 1.3rem;
+	cursor: pointer;
+}
+
+.menu_items_container > span > a:hover {
+	font-size: 1.4rem;
+}

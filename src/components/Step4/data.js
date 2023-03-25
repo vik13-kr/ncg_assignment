@@ -1,0 +1,81 @@
+/** @format */
+
+export const step4_data = [
+	{
+		Year: "2010",
+		Sales: "13894163",
+		Capex: "764435.7498",
+		Profits: "-6576872.37",
+		Market_Cap: "14001791.78",
+	},
+	{
+		Year: "2011",
+		Sales: "15710758",
+		Capex: "892720.585",
+		Profits: "1702982.03",
+		Market_Cap: "0",
+	},
+	{
+		Year: "2012",
+		Sales: "16854413",
+		Capex: "1109092.789",
+		Profits: "1549539.65",
+		Market_Cap: "0",
+	},
+	{
+		Year: "2013",
+		Sales: "16723019",
+		Capex: "1087703.811",
+		Profits: "1555429.22",
+		Market_Cap: "0",
+	},
+	{
+		Year: "2014",
+		Sales: "17972595",
+		Capex: "1131195.571",
+		Profits: "1735387.21",
+		Market_Cap: "0",
+	},
+	{
+		Year: "2015",
+		Sales: "17686790",
+		Capex: "1127502.322",
+		Profits: "1518669.57",
+		Market_Cap: "0",
+	},
+	{
+		Year: "2016",
+		Sales: "17910320",
+		Capex: "1167878.202",
+		Profits: "1671173.01",
+		Market_Cap: "23081916.37",
+	},
+	{
+		Year: "2017",
+		Sales: "18448033",
+		Capex: "1151303.479",
+		Profits: "1909324.19",
+		Market_Cap: "24538463.37",
+	},
+	{
+		Year: "2018",
+		Sales: "20351620",
+		Capex: "1317342.829",
+		Profits: "2275661.44",
+		Market_Cap: "27163043.76",
+	},
+	{
+		Year: "2019",
+		Sales: "21018395",
+		Capex: "1404746.798",
+		Profits: "2077564.89",
+		Market_Cap: "27269822.28",
+	},
+	{
+		Year: "2020",
+		Sales: "18952091",
+		Capex: "1293241.058",
+		Profits: "1553985.01",
+		Market_Cap: "33855136.24",
+	},
+];
